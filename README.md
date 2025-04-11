@@ -17,6 +17,7 @@ This repository contains the EFI files for running macOS Sequoia 15.4 on the Asu
 - **Wi-Fi:** Broadcom BCM943602CS
 - **Bootloader:** OpenCore 1.0.3
 - **macOS Version:** Sequoia 15.4
+- **Drivers:** All of kexts up to date (6/4/2025)
 
 ### What's Working
 
@@ -85,15 +86,16 @@ To run macOS smoothly on the Asus Chromebox 3, it is recommended to replace the 
 
 ### 规格
 
-- **型号**: Asus Chromebox 3
-- **处理器**: Intel Core i7-8550U
-- **显卡**: Intel UHD 620
-- **内存**: 32GB DDR4 (用户自行升级)
-- **存储**: 2T NVMe SSD (用户自行升级)
-- **音频**: Realtek ALC5650
-- **无线网络**: Broadcom BCM943602CS
-- **引导器**: OpenCore 1.0.3
-- **macOS 版本**: Sequoia 15.4
+- **型号：** Asus Chromebox 3
+- **处理器：** Intel Core i7-8550U
+- **显卡：** Intel UHD 620
+- **内存：** 32GB DDR4 (用户自行升级)
+- **存储：** 2T NVMe SSD (用户自行升级)
+- **音频：** Realtek ALC5650
+- **无线网络：** Broadcom BCM943602CS
+- **引导器：** OpenCore 1.0.3
+- **macOS 版本：** Sequoia 15.4
+- **驱动：** 所有kexts升级到当前最新版本（2025/4/6）
 
 ### 已实现功能
 
